@@ -1,0 +1,61 @@
+
+
+Magnolia Bakery 
+
+Strengths: 
+The visuals and colors  to represent the cakes and bakery were used effectively. 
+
+Weaknesses:
+The designed user experience is not inclusive. 
+For example, there is a lack of products that takes into account vegans.
+Allergens are not explicitly mentioned on every product.
+
+
+85°C Bakery Cafe
+
+Strengths: 
+The website reflects the high quality of the service the brand offers. 
+The video used in the hero section of the homepage emphasizes trust.
+Allergens disclaimer.
+Calorie count. 
+
+Weaknesses:
+The designed user experience is not inclusive as well.
+There is a lack of products that take into account vegans.
+Allergens are not explicitly mentioned on every product.
+
+
+Bakingo
+
+Strengths: 
+Guest checkout.
+Considering vegans.
+A wide array of cake flavors and sizes.
+
+Weaknesses:
+No pickup available. 
+The visuals in the hero section of the homepage appear to be distorted.
+Portosbakery
+
+Strengths: 
+This bakery provides customers with the necessary ingredients to bake their own treats at home.  
+The video featured on the homepage conveys a sense of trustworthiness and excellence, as it allows customers to observe the cooking process in the kitchen.
+
+Weaknesses:
+The designed user experience is not inclusive as well.
+There is a lack of products that take into account vegans.
+Allergens are not explicitly mentioned on every product.
+
+
+Bakersdelight
+
+Strengths: 
+Allergens disclaimer.
+Calorie count. 
+Considering vegans.
+They consider healthy food options in their products.
+
+Weaknesses:
+The designed user experience is not inclusive:
+Most of the food targets people with strict healthy diets.
+
